@@ -2,7 +2,7 @@
   ## Hi there 👋 I'm Bhumika Patel
 #### A passionate iOS Developer from India
 
-- 🔭 I’m currently working on SwiftUI, Swift
+- 🔭 I’m currently working on Swift, SwiftUI
 - 👯 I’m looking to collaborate on iOS projects
 - 👩‍💻 All of my projects are available at https://github.com/bhumika-ios?tab=repositories
 - 📫 How to reach me: bhumika.iosdeveloper@gmail.com
