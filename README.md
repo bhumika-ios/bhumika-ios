@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on iOS projects
 - 👩‍💻 All of my projects are available at https://github.com/bhumika-ios?tab=repositories
 - 📫 How to reach me: bhumika.iosdeveloper@gmail.com
-- 📫 How to reach me: https://bhumikaios.com 
+- 📫 How to contact me: https://bhumikaios.com 
 
 ## 🔗 Contact with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bhumikaios.com/)
