@@ -5,6 +5,7 @@
 #### A passionate iOS Developer from India
 
 - 🔭 I’m currently working on Swift, SwiftUI
+- 🌱 I’m currently learning VisionPro
 - 👯 I’m looking to collaborate on iOS projects
 - 👩‍💻 All of my projects are available at https://github.com/bhumika-ios?tab=repositories
 - 📫 How to reach me: bhumika.iosdeveloper@gmail.com
