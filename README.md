@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning VisionPro
 - 👯 I’m looking to collaborate on iOS projects
 - 👩‍💻 All of my projects are available at https://github.com/bhumika-ios?tab=repositories
-- 📫 How to reach me: bhumika.iosdeveloper@gmail.com
+- 💬 How to reach me: bhumika.iosdeveloper@gmail.com
 - 📫 How to contact me: https://bhumikaios.com 
 
 🌐 Socials:
